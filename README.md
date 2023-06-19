@@ -27,7 +27,7 @@ UPLOADTHING_APP_ID=
 REDIS_URL=
 REDIS_SECRET=
 ```
-```ts
+```html
 src
  ├────────────────────────────────────┐
  ├\app─<RootLayout> (1)               ├lib
